@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="email_utils",
-    version="o.1",
+    name="email_utils_PyWendi",
+    version="0.1",
     packages=find_packages(),
     install_requires=[],
     author="RAKOTONDRANAIVO GILBERT Joyaux Wendi Anderson",
